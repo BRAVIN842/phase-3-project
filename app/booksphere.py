@@ -13,3 +13,4 @@ borrowed_books_file = 'borrowed_books.txt'
 
 engine = create_engine('sqlite:///booksphere.db', echo=False)
 Session = sessionmaker(bind=engine)
+session = Session()
