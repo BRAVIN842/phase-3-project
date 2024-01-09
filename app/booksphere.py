@@ -9,3 +9,4 @@ Base = declarative_base()
 authors_file = 'authors.txt'
 books_file = 'books.txt'
 users_file = 'users.txt'
+borrowed_books_file = 'borrowed_books.txt'
