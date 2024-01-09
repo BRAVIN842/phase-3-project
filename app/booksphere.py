@@ -7,3 +7,4 @@ Base = declarative_base()
 
 # file paths
 authors_file = 'authors.txt'
+books_file = 'books.txt'
